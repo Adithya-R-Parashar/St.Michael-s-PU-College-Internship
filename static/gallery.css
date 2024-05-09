@@ -1,0 +1,27 @@
+body{
+    background-color: #825142;
+    background-image: url(image/bg.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin: 0%;
+    padding: 0%;
+    border: 0%x;
+}
+p{
+    position: relative;
+    top: 30px;
+    left: 600px;
+    color: #825142;
+    font-size: 80px;
+}
+.col-md-4 mb-3{
+    width: 500px; /* Set desired width */
+    height: 150px; /* Set desired height */
+  }
+
+.row{
+    padding-left: 10px;
+}
+  

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='course.css')}}">
+</head>
+<style>
+    .main{
+        position: absolute;
+        top: 40px;
+        left: 270px;
+        font-size: 80px;
+        color: #EFDDC5;
+    }
+    ul{
+        position: absolute;
+        top: 190px;
+        left: 90px;
+        font-size: 50px;
+        color: #EFDDC5;
+    }
+    .main-2{
+        position: absolute;
+        color: #825142;
+        font-size: 60px;
+        top: 550px;
+        left: 80px;
+    }
+    p{
+        position: absolute;
+        top: 20px;
+        left: 1150px;
+        font-size: large;
+        color: #825142;
+    }
+</style>
+<body>
+    <a href="{{ url_for('cs')}}"><p>Cick for Computer Course</p></a>
+    <h1 class="main">Courses For 1PU & 2PU </h1>
+    <ul>
+        <li>CEBA<br>
+            Computer Science, Economics, Business, Accountancy
+        </li>
+        <li>GEBA<br>
+            Geography, Economics, Business, Accountancy
+        </li>
+    </ul>
+    <h1 class="main-2">LANGUAGES: English, Kannada, Hindi</h1>
+
+    
+</body>
+</html>

@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+    background-image: url(image/contact.jpg);
+    background-size: cover;
+    background-attachment: local;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0%;
+    padding: 0%;
+    border: 0%x;
+}
+.num{
+    position: absolute;
+    top: 230px;
+    left: 230px;
+    font-size: 40px;
+    color: #825142;
+}
+.mail{
+    position: absolute;
+    top: 350px;
+    left: 230px;
+    font-size: 40px;
+    color: #825142;
+}
+.add{
+    position: absolute;
+    top: 475px;
+    left: 230px;
+    font-size: 40px;
+    color: #825142;
+    text-decoration: underline;
+}
+.add-d{
+    position: absolute;
+    top: 520px;
+    left: 310px;
+    color: #825142;
+    font-size: 40px;
+    text-decoration: underline;
+}
+.fb{
+    position: absolute;
+    top: 220px;
+    left: 1000px;
+    font-size: 40px;
+    color: #825142;
+    text-decoration: underline;
+}

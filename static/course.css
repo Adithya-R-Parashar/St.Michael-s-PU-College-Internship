@@ -1,0 +1,8 @@
+body{
+    background-image: url(image/course.jpg);
+    background-size: contain;
+    background-attachment: local;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-color: #C69A75;
+}

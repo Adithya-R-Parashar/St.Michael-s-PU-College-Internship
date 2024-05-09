@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    background-image: url(image/bg-2.jpg);
+    background-size: cover;
+    background-attachment: local;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0%;
+    padding: 0%;
+    border: 0%x;
+}
+ul{
+    position: absolute;
+    top: 210px;
+    left: 100px;
+    color: #DDC1A9;
+    font-size: 40px;
+}
+.main-2{
+    position: absolute;
+    top: 250px;
+    left: 800px;
+    color: #DDC1A9;
+    font-size: 60px;
+}
+.main-3{
+    position: absolute;
+    top: 320px;
+    left: 870px;
+    color: #DDC1A9;
+    font-size: 60px;
+}

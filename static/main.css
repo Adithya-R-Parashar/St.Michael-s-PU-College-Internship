@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+    background-image: url(image/home.jpg);
+    background-size: cover;
+    background-attachment: local;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0%;
+    padding: 0%;
+    border: 0%x;
+}
+.navbar navbar-expand-lg custom-background custom-text-color {
+    background-color: #DEC4AB !important;
+    color: #815041;
+}
+

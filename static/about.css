@@ -1,0 +1,11 @@
+body{
+    color: white;
+    background-image: url(image/course.jpeg);
+    background-size: cover;
+    background-attachment: local;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0%;
+    padding: 0%;
+    border: 0%x;
+}
